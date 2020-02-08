@@ -1,0 +1,24 @@
+DupTree created in Setup:
+0 0 1 2 2 3 3 3 3 4 8 8 9 11 12 12 12 14 15 19 19 21 22 23 24 
+Sorted ArrayList created in Setup:
+0 0 1 2 2 3 3 3 3 4 8 8 9 11 12 12 12 14 15 19 19 21 22 23 24 
+------------------------------------------------------
+Testing DupTree Delete: inserted value = 17 with count = 1
+After DupTree delete: value = 17 count = 0
+DupTree delete test passed
+DupTree invariant maintained
+------------------------------------------------------
+Testing DupTree insert ...
+Creating ArrayList iterator and Comparing elements pair-wise ...
+... DupTree insert test passed
+DupTree invariant maintained
+------------------------------------------------------
+Tree created in Setup:
+1 2 4 6 7 8 12 13 14 15 17 18 20 22 24 
+TreeSet created in Setup:
+1 2 4 6 7 8 12 13 14 15 17 18 20 22 24 
+------------------------------------------------------
+Testing Tree insert ...
+Creating TreeSet iterator and Comparing elements pair-wise ...
+... Tree insert test passed
+Tree invariant maintained
